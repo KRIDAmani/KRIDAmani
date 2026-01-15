@@ -1,8 +1,9 @@
 <div align="center">
   
 [![Animated Text](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=28&duration=2000&pause=1000&color=FFD700&background=00000000&center=true&vCenter=true&width=435&lines=Bonjour+!;Bienvenue+!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
+</div>
 ---
+<div align="center">
 
 # 👨‍💻 Amani KRID
 
