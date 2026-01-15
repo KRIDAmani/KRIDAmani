@@ -9,15 +9,17 @@
 ⚙️ Élève ingénieure en 3ème année @ **École Centrale de Lyon**  
 🚀 Passionnée par le développement full-stack  
 💻 En cours de m'auto-former en DevOps
-
+</div>
 ---
-
+<div align="center">
 ## 💫 À propos de moi
 
 ### 🎓 Parcours Académique
 **Double diplôme d'ingénierie** entre deux écoles d'excellence :
+</div>
 - 🇹🇳 **ENSI** (École Nationale des Sciences de l'Informatique, Tunisie)
 - 🇫🇷 **École Centrale de Lyon**
+<div align="center">
 
 Une formation qui forge non seulement des compétences techniques, mais surtout **l'esprit d'adaptation** de l'ingénieur capable de relever n'importe quel défi !
 
@@ -28,34 +30,46 @@ Une formation qui forge non seulement des compétences techniques, mais surtout 
 
 **🏭 Primatec Engineering × BMW**  
 Développement d'un système **en production chez BMW** pour automatiser la transformation de fichiers de configuration :
+</div>
 - ⚡ Apprentissage de **Rust en 2 semaines** (langage totalement nouveau)
 - 🐍 Architecture backend en **Python**
 - 🎨 Interface utilisateur en **Streamlit**
 - ✅ Projet déployé et utilisé en production
+<div align="center">
 
 ### 🛠️ Projets Techniques Diversifiés
 
 **Applications Web & Mobile**
+</div>
 - ♟️ Chess Game - Application web temps réel
 - 📚 Bookverse - Stack MySQL + Flask
 - 🐕 Woofit - Application React Native
 
+<div align="center">
+
 **Algorithmique & Data Science**
+</div>
 - 🧩 Sudoku Solver - C++ / QML / CMake
 - 🚕 Gestionnaire de taxis - ARIMA, NetworkX, Reinforcement Learning
 - 🗺️ Travelling Salesman - Optimisation en Python
 
+<div align="center">
+
 **DevOps & Architecture**
+</div>
 - 📅 Meeting Manager - Java, Docker, Spring Boot, Redis (auto-formation)
+<div align="center">
 
 ### 👥 Leadership & Soft Skills
 
 **🎯 CPC ENSI (Competitive Programming Club)**
+</div>
 - Organisation de **2 événements à l'échelle nationale**
 - Media & Design Manager pour le **Forum de l'ENSI**
 - Coordination de **2 équipes** (4-5 personnes) en **méthodologie Scrum**
 - 📻 Couverture médiatique : **5+ stations radio/TV**
 - 👥 Accueil de **1500+ participants**
+<div align="center">
 
 ### 🌍 Curiosité Sans Limites
 Polyglotte en devenir, actuellement en apprentissage du **russe** 🇷🇺 — parce que l'apprentissage ne s'arrête jamais !
