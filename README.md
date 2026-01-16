@@ -29,7 +29,29 @@ Une formation qui forge non seulement des compétences techniques, mais surtout 
 ### 💡 Ce qui me définit
 **Persévérance • Curiosité • Autonomie • Esprit d'initiative**
 
+---
+
+### 🔬 Expérience en Recherche
+
+**🎓 LIRIS - Laboratoire d'InfoRmatique en Image et Systèmes d'information**  
+*Stage de recherche - Optimisation de flotte de taxis intelligente*
+
+Développement d'un système d'optimisation multi-agents pour la gestion dynamique de flottes de taxis urbains :
+
+</div>
+
+- 📊 **Prévision de demande** : Modèles ARIMA pour anticiper les pics de demande par zone géographique
+- 🗺️ **Optimisation de trajets** : Algorithmes de graphes avec NetworkX pour minimiser les temps de trajet et maximiser la couverture
+- 🤖 **Apprentissage par renforcement** : Implémentation d'agents RL pour l'allocation dynamique des taxis en temps réel
+- 📈 **Résultats** : Réduction significative des temps d'attente clients et optimisation du taux d'occupation des véhicules
+- 🐍 **Stack technique** : Python, Pandas, Scikit-learn, NetworkX
+
+<div align="center">
+
+---
+
 ### 🚀 Expérience Industrielle
+
 **🏭 Primatec Engineering × BMW**  
 Développement d'un système **en production chez BMW** pour automatiser la transformation de fichiers de configuration :
 
@@ -41,6 +63,8 @@ Développement d'un système **en production chez BMW** pour automatiser la tran
 - ✅ Projet déployé et utilisé en production
 
 <div align="center">
+
+---
 
 ### 🛠️ Projets Techniques Diversifiés
 
@@ -54,12 +78,11 @@ Développement d'un système **en production chez BMW** pour automatiser la tran
 
 <div align="center">
 
-**Algorithmique & Data Science**
+**Algorithmique & Optimisation**
 
 </div>
 
 - 🧩 Sudoku Solver - C++ / QML / CMake
-- 🚕 Gestionnaire de taxis - ARIMA, NetworkX, Reinforcement Learning
 - 🗺️ Travelling Salesman - Optimisation en Python
 
 <div align="center">
@@ -71,6 +94,8 @@ Développement d'un système **en production chez BMW** pour automatiser la tran
 - 📅 Meeting Manager - Java, Docker, Spring Boot, Redis (auto-formation)
 
 <div align="center">
+
+---
 
 ### 👥 Leadership & Soft Skills
 
